@@ -8,14 +8,14 @@
  
 Concept from -
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
-.
-.
-.
-.
-.
-.
-.
-.
+.-
+.-
+.-
+.-
+.-
+.-
+.-
+.-
 [Setup]
 This uses the SFML library. -- I think its the 64bit Visual Studio 15 one.
 
