@@ -1,5 +1,0 @@
-﻿  main.cpp
-c:\users\usmca\documents\visual studio 2015\projects\project7boids\project7boids\main.cpp(91): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-c:\users\usmca\documents\visual studio 2015\projects\project7boids\project7boids\main.cpp(137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  Project7Boids.vcxproj -> c:\users\usmca\documents\visual studio 2015\Projects\Project7Boids\x64\Debug\Project7Boids.exe
-  Project7Boids.vcxproj -> c:\users\usmca\documents\visual studio 2015\Projects\Project7Boids\x64\Debug\Project7Boids.pdb (Partial PDB)

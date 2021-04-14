@@ -9,14 +9,14 @@
 #define NUMBER_OF_BOIDS 600
 
 // Boid Settings
-#define B_SIGHT 150.f
-#define B_BUBBLE 10.f
-#define B_SPEED 80000.f
+#define B_SIGHT 120.f
+#define B_BUBBLE 15.f
+#define B_SPEED 40000.f
 
 
-#define separateModifier 1.f
-#define allignModifier 1000.f
-#define cohesionModifier 1000.f
+#define separateModifier 3.f
+#define allignModifier 100.f
+#define cohesionModifier 100.f
 
 // Camera Settings
 
